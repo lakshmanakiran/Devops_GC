@@ -1,0 +1,4 @@
+This is to test nano command to enter text in notepad like editor.
+addint second line using same nano command
+
+adding third line using cat >> command to add text in file4
